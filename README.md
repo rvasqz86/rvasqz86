@@ -1,46 +1,61 @@
-# 👋 Hi there, I'm Raul!
+# Hi, I'm Raul
 
-Welcome to my GitHub! I'm a Navy veteran turned tech leader, and an aspiring entrepreneur currently building **AI-powered solutions for health and wellness**. Here, you'll find a collection of my professional projects, personal experiments, and open-source contributions.
-
----
-
-## 🚀 About Me
-
-- 🌟 **Builder @ GPT-Flow** | Driving innovation with AI to solve real-world problems.
-- 🏋️‍♀️ **Builder @ Some AI health coach**: Co-founder of an AI-based **health coach app** delivering personalized meal plans, workouts, and health tips.
-- 🎯 **Vision**: Empower individuals to take charge of their health and wellness using technology.
-- 💻 **Technical Skills**: Java, Python, JavaScript, React, AI/ML, SaaS development, and cloud platforms.
-- 🎉 **Personal Highlights**: 
-  - Ran a marathon 🏃‍♀️
-  - BJJ Purple Belt
-  - Rock Climber
+Navy veteran, senior software engineer, and founder building at the intersection of real-time data systems and AI-powered consumer products.
 
 ---
 
-## 💡 Projects
+## What I'm Working On
 
-### 🚀 [AI Health Coach App](#)
-- **Description**: Personalized meal planning, workout schedules, and daily health tips powered by AI.
-- **Tech Stack**: Python, React, TensorFlow, AWS.
-- **Status**: In development💪.
+**Senior Software Engineer @ [Improving](https://improving.com)** — consulting on Medtronic's Smart Digital Factory initiative. I architect and operate Kafka-based event streaming platforms processing manufacturing telemetry across 10+ global sites. Java 21, Spring Boot, Kafka Streams, Kubernetes (EKS), Confluent Cloud.
 
-### 🛠️ [GPT-Flow Platform](#)
-- **Description**: Leveraging the latest AI advancements for business automation and productivity.
-- **Tech Stack**: Python 
-- **Contributions**: Focused on system architecture and product vision.
+**Founder @ [Helpli](https://github.com/rvasqz86/tend)** — building an AI-powered personal assistant app approaching App Store launch. 8 AI helpers (medicine reminders, family check-in, meal planning, and more) powered by Claude API, Flutter/Dart, Supabase, and n8n workflow automation.
+
+**Co-Founder @ [Rads Consult](https://apps.apple.com/us/app/rads-consult/id1508135841)** — shipped a revenue-producing radiology education app for medical professionals. Available on [App Store](https://apps.apple.com/us/app/rads-consult/id1508135841) and [Google Play](https://play.google.com/store/apps/details?id=com.radsconsult.rads_consult_app). Flutter/Dart with Java/Spring backend.
 
 ---
 
-## 🌟 Fun Facts
-- 🇺🇸 Proud Navy veteran.
-- 🕺 Celebrated my wedding during **Day of the Dead in San Miguel de Allende** – ask me about it!  
-- 🛠️ Passionate about AI, wellness, and building tech that changes lives.
+## Background
+
+- **VP, Software Engineer** at JPMorgan Chase — promoted within 2 years
+- **Petty Officer First Class (E-6)**, U.S. Navy — active duty and reserves, 2005–2014
+- **Stanford Ignite** — Certificate in Entrepreneurship and Innovation
+- **DePaul University** — MS in Software Engineering, BS in Computer Science
+- **Code Platoon** — veteran coding bootcamp graduate
 
 ---
 
+## Tech Stack
 
-## 📊 GitHub Stats
+| | |
+|---|---|
+| **Languages** | Java 21, Python, TypeScript, Dart, SQL, Bash |
+| **Streaming** | Apache Kafka, Confluent Cloud, Kafka Streams, Kafka Connect, Debezium CDC, Avro, MQTT |
+| **Backend** | Spring Boot, Spring WebFlux, R2DBC, Next.js, Deno, Supabase Edge Functions |
+| **Mobile** | Flutter/Dart |
+| **AI** | Claude API, LangChain, n8n AI agents, LLM integration |
+| **Infrastructure** | AWS (EKS, RDS), Kubernetes, Flux/GitOps, Docker, GitLab CI, GitHub Actions |
+| **Databases** | PostgreSQL, Supabase, Snowflake, MongoDB |
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rvasqz86&show_icons=true&theme=radical)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rvasqz86&layout=compact&theme=radical)
+## Selected Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [Helpli (Tend)](https://github.com/rvasqz86/tend) | AI personal assistant app — 8 helpers, conversational setup, push notifications | Flutter, Supabase, Claude API, n8n |
+| [Rads Consult](https://apps.apple.com/us/app/rads-consult/id1508135841) | Radiology education app for medical professionals — ~$30K revenue | Flutter, Java/Spring, Firebase |
+| [OrderDX](https://github.com/rvasqz86/orderdx) | Order management application | TypeScript, Next.js, Vercel |
+| [FlowLens](https://github.com/rvasqz86/flowlens) | Data flow tooling | Python |
+
+---
+
+## Beyond Code
+
+- BJJ Purple Belt
+- Marathon finisher
+- Rock climber
+- Chicago, IL
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rvasqz86&show_icons=true&theme=default&hide_border=true)
