@@ -1,61 +1,36 @@
 # Hi, I'm Raul
 
-Navy veteran, senior software engineer, and founder building at the intersection of real-time data systems and AI-powered consumer products.
+Navy veteran, senior software engineer, and founder building developer tools for the AI-coding era and real-time data systems.
 
----
+## Building now
 
-## What I'm Working On
+**[gitmotive](https://gitmotive.tech)** — `git blame` tells you who. `git motive` tells you why.
 
-**Senior Software Engineer @ [Improving](https://improving.com)** — consulting on Medtronic's Smart Digital Factory initiative. I architect and operate Kafka-based event streaming platforms processing manufacturing telemetry across 10+ global sites. Java 21, Spring Boot, Kafka Streams, Kubernetes (EKS), Confluent Cloud.
+Every line an AI coding agent writes comes from a prompt and a chain of reasoning that disappears when the session ends. gitmotive records that context through the agent's own hooks, links it to the lines and commits it produced, and gives it back when you ask about a line. Runs locally, no LLM, no cloud, no account.
 
-**Founder @ [Helpli](https://github.com/rvasqz86/tend)** — building an AI-powered personal assistant app approaching App Store launch. 8 AI helpers (medicine reminders, family check-in, meal planning, and more) powered by Claude API, Flutter/Dart, Supabase, and n8n workflow automation.
+[Live demo](https://gitmotive.tech/demo/) · [Repo](https://github.com/rvasqz86/gitmotive) · `pipx install gitmotive`
 
-**Co-Founder @ [Rads Consult](https://apps.apple.com/us/app/rads-consult/id1508135841)** — shipped a revenue-producing radiology education app for medical professionals. Available on [App Store](https://apps.apple.com/us/app/rads-consult/id1508135841) and [Google Play](https://play.google.com/store/apps/details?id=com.radsconsult.rads_consult_app). Flutter/Dart with Java/Spring backend.
+## Shipped
 
----
+**Rads Consult** — co-founded and shipped a revenue-producing radiology education app for medical professionals on iOS and Android (Flutter/Dart, Java/Spring backend). Now wound down.
 
 ## Background
 
-- **VP, Software Engineer** at JPMorgan Chase — promoted within 2 years
-- **Petty Officer First Class (E-6)**, U.S. Navy — active duty and reserves, 2005–2014
+- **Senior Software Engineer**, [Improving](https://www.improving.com) — consulting on enterprise real-time data platforms (Kafka, Kafka Streams, Snowflake, EKS)
+- **VP, Software Engineer**, JPMorgan Chase
+- **Petty Officer First Class (E-6)**, U.S. Navy, 2005–2014
 - **Stanford Ignite** — Certificate in Entrepreneurship and Innovation
-- **DePaul University** — MS in Software Engineering, BS in Computer Science
-- **Code Platoon** — veteran coding bootcamp graduate
+- **DePaul University** — MS Software Engineering, BS Computer Science
+- **Code Platoon** — veteran coding bootcamp
 
----
-
-## Tech Stack
+## Tech stack
 
 | | |
 |---|---|
-| **Languages** | Java 21, Python, TypeScript, Dart, SQL, Bash |
-| **Streaming** | Apache Kafka, Confluent Cloud, Kafka Streams, Kafka Connect, Debezium CDC, Avro, MQTT |
-| **Backend** | Spring Boot, Spring WebFlux, R2DBC, Next.js, Deno, Supabase Edge Functions |
-| **Mobile** | Flutter/Dart |
-| **AI** | Claude API, LangChain, n8n AI agents, LLM integration |
-| **Infrastructure** | AWS (EKS, RDS), Kubernetes, Flux/GitOps, Docker, GitLab CI, GitHub Actions |
-| **Databases** | PostgreSQL, Supabase, Snowflake, MongoDB |
+| **Languages** | Java, Python, TypeScript, Dart, SQL |
+| **Streaming & data** | Kafka, Kafka Streams, Kafka Connect, Debezium, Avro, Snowflake, PostgreSQL |
+| **Backend & mobile** | Spring Boot, Spring WebFlux, Next.js, Supabase, Flutter |
+| **AI** | Claude API, agent hooks, LLM integration |
+| **Infrastructure** | AWS (EKS, RDS), Kubernetes, Flux/GitOps, Docker, GitHub Actions, GitLab CI |
 
----
-
-## Selected Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Helpli (Tend)](https://github.com/rvasqz86/tend) | AI personal assistant app — 8 helpers, conversational setup, push notifications | Flutter, Supabase, Claude API, n8n |
-| [Rads Consult](https://apps.apple.com/us/app/rads-consult/id1508135841) | Radiology education app for medical professionals — ~$30K revenue | Flutter, Java/Spring, Firebase |
-| [OrderDX](https://github.com/rvasqz86/orderdx) | Order management application | TypeScript, Next.js, Vercel |
-| [FlowLens](https://github.com/rvasqz86/flowlens) | Data flow tooling | Python |
-
----
-
-## Beyond Code
-
-- BJJ Purple Belt
-- Marathon finisher
-- Rock climber
-- Chicago, IL
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rvasqz86&show_icons=true&theme=default&hide_border=true)
+Chicago, IL · BJJ purple belt · marathon finisher · rock climber
